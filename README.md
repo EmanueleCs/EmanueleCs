@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a student of Internet Systems<br>- 📚 I'm currently learning Flutter, Dart and Python<br>- ⚡ In my free time I like to read and leran new things</p>
+<p align="left">- 🔭 I’m a student of Internet Systems<br>- 📚 I'm currently learning Flutter, Dart and Python<br>- ⚡ In my free time I like to read and learn new things</p>
 
 ###
 
@@ -45,8 +45,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=EmanueleCs&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=EmanueleCs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmanueleCs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 ###
 
