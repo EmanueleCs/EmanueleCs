@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m a student of Internet Systems<br>- 📚 I'm currently learning Flutter, Dart and Python<br>- ⚡ In my free time I like to read and leran new things</p>
+<p align="left">- 🔭 I’m a student of Internet Systems<br>- 📚 I'm currently learning Flutter, Dart and Python<br>- ⚡ In my free time I like to read and leran new things</p>
 
 ###
 
