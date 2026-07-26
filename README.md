@@ -57,6 +57,7 @@
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
 **Data & Project Management**
@@ -73,11 +74,9 @@
 
 ### 💼 Featured Projects
 
-> _Replace the placeholders below with your real repos — recruiters look at pinned/featured projects first._
-
 <p align="left">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanueleCs&repo=your-flutter-ai-security-app&theme=dracula" height="150" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanueleCs&repo=your-second-project&theme=dracula" height="150" /></a>
+  <a href="https://github.com/EmanueleCs/tatupro_api" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanueleCs&repo=tatupro_api&theme=dracula" height="150" /></a>
+  <a href="https://github.com/EmanueleCs/Projeto_GerenciamentoMapaSalas" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanueleCs&repo=Projeto_GerenciamentoMapaSalas&theme=dracula" height="150" /></a>
 </p>
 
 ---
