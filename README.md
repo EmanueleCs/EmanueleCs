@@ -1,64 +1,106 @@
-<h1 align="left">Hello! I'm Emanuele! 👋</h1>
-###
-<h3 align="left">👩‍💻 About Me</h3>
-###
-<p align="left">- 🎓 Internet Systems graduate (Fatec São Roque) — Academic Merit Honor recipient<br>- 🤖 I develop solutions combining AI Agents and Cybersecurity<br>- 🔧 I work with automation and system integration (n8n, Supabase, Docker, Evolution API)<br>- 📊 I also enjoy data analysis and process organization (Excel, Power Query, Jira, Trello)<br>- 🌎 1-month cultural & language immersion in New York, USA (ARInter/CPS)<br>- 📚 Currently deepening my studies in Data Engineering</p>
-###
-<h3 align="left">🛠 Language and tools</h3>
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-###
-<h3 align="left">🚀 Focus areas</h3>
-###
-<p align="left">🤖 AI Agents &nbsp;|&nbsp; 🔐 Cybersecurity &nbsp;|&nbsp; ⚙️ Process Automation (n8n, Supabase, Evolution API) &nbsp;|&nbsp; 📈 Data Analysis (Excel, Power Query, Statistics) &nbsp;|&nbsp; 🗂️ Project Management (Jira, Trello)</p>
-###
-<h3 align="left">🔥 My Stats:</h3>
-###
+<h1 align="center">Hi, I'm Emanuele 👋</h1>
+<h3 align="center">TI Developer | AI Agents & Cybersecurity | Automation & Data</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+solutions+with+AI+Agents+%2B+Cybersecurity;Automating+workflows+with+n8n%2C+Docker+%26+Supabase;Turning+data+into+decisions" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+---
+
+### 🎯 About Me
+
+- 🎓 **Internet Systems** graduate — Fatec São Roque, awarded the **Academic Merit Honor** certificate for top academic performance
+- 🧭 Technical background in **Business Administration** (IFSP), bringing a strategic and management view to my technical work
+- 🌎 One-month cultural & language immersion in **New York, USA** (ARInter/CPS) — fluent in English for multicultural environments
+- 🤖 Building solutions that combine **AI Agents** and **Cybersecurity**, focused on education and data protection
+- ⚙️ Hands-on experience automating processes and integrating systems with **n8n, Supabase, Docker, Evolution API**
+- 🗄️ Experience supporting and monitoring **SQL databases** (MySQL, SQL Server)
+- 📊 Comfortable turning raw data into insight with **Excel, Power Query and Statistics**
+- 📚 Currently deepening my studies in **Data Engineering**
+
+---
+
+### 🛠️ Tech Stack
+
+**AI & Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+</p>
+
+**Web & Design**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
+
+**Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+**Automation & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+**Data & Project Management**
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 💼 Featured Projects
+
+> _Replace the placeholders below with your real repos — recruiters look at pinned/featured projects first._
+
+<p align="left">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanueleCs&repo=your-flutter-ai-security-app&theme=dracula" height="150" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanueleCs&repo=your-second-project&theme=dracula" height="150" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EmanueleCs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmanueleCs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmanueleCs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-###
-###
-<h3 align="left">📱Social Medias:</h3>
-###
-<div align="left">
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=EmanueleCs&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
-###
+
+---
+
+### 🏆 Certifications & Highlights
+
+- 🥇 **Academic Merit Honor** — Fatec São Roque (top of class, 2nd semester 2025)
+- 🌎 Cultural & Language Immersion — New York, USA (ARInter/CPS)
+- 🎓 Technical Degree in Administration — IFSP
+
+---
+
+<p align="center"><i>Open to opportunities in AI-driven development, cybersecurity and automation. Let's connect! 🚀</i></p>
