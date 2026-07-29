@@ -20,6 +20,7 @@
 - 🧭 Technical background in **Business Administration** (IFSP), bringing a strategic, data-driven view to engineering decisions
 - 🗄️ Practical experience supporting and monitoring **SQL databases** (MySQL, SQL Server) — query tuning, integrity checks, monitoring
 - ⚙️ Hands-on experience building **automated data pipelines and integrations** with n8n, Supabase, Docker and REST APIs
+- ☁️ Building data ingestion pipelines on **AWS (S3, Lambda, RDS)** with **Terraform** as infrastructure-as-code
 - 📊 Strong data-wrangling foundation with **Excel, Power Query and Statistics**, now extending into Python-based data workflows
 - 🤖 Applying **AI Agents** to data and process automation, with an eye on data quality, security and governance
 - 🌎 One-month cultural & language immersion in **New York, USA** (ARInter/CPS) — fluent in English for multicultural, remote-first teams
@@ -36,6 +37,7 @@
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
@@ -82,20 +84,30 @@
 
 ### 💼 Featured Projects
 
+**Data Engineering**
+
 <p align="left">
-  <a href="https://github.com/EmanueleCs/tatupro_api" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanueleCs&repo=tatupro_api&theme=dracula" height="150" /></a>
-  <a href="https://github.com/EmanueleCs/Projeto_GerenciamentoMapaSalas" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanueleCs&repo=Projeto_GerenciamentoMapaSalas&theme=dracula" height="150" /></a>
+  <a href="https://github.com/EmanueleCs/sao-roque-real-estate-pipeline" target="_blank"><img src="https://github-stats-extended.vercel.app/api/pin/?username=EmanueleCs&repo=sao-roque-real-estate-pipeline&theme=dracula" height="150" /></a>
+  <a href="https://github.com/EmanueleCs/aws-foundations-dio-gft-project-5" target="_blank"><img src="https://github-stats-extended.vercel.app/api/pin/?username=EmanueleCs&repo=aws-foundations-dio-gft-project-5&theme=dracula" height="150" /></a>
 </p>
 
-> 💡 *Next step: pin a project here that shows an end-to-end data pipeline (e.g. API/CSV → transformation script → database), even a small one — it's the single highest-leverage addition for a data engineering portfolio.*
+- 🏠 **[São Roque Real Estate Pipeline](https://github.com/EmanueleCs/sao-roque-real-estate-pipeline)** — pipeline de dados end-to-end: scraping de anúncios de aluguel com Selenium, armazenamento em camada raw no S3, modelagem e carga em PostgreSQL (RDS) e dashboard de visualização. Boa demonstração de arquitetura data lake → data warehouse.
+- ☁️ **[AWS Foundations — Ingestão com Lambda + S3 + Terraform](https://github.com/EmanueleCs/aws-foundations-dio-gft-project-5)** — pipeline de ingestão de dados públicos (BrasilAPI) via AWS Lambda, com infraestrutura como código em Terraform e opção de execução local via LocalStack.
+
+**Outros projetos**
+
+<p align="left">
+  <a href="https://github.com/EmanueleCs/tatupro_api" target="_blank"><img src="https://github-stats-extended.vercel.app/api/pin/?username=EmanueleCs&repo=tatupro_api&theme=dracula" height="150" /></a>
+  <a href="https://github.com/EmanueleCs/Projeto_GerenciamentoMapaSalas" target="_blank"><img src="https://github-stats-extended.vercel.app/api/pin/?username=EmanueleCs&repo=Projeto_GerenciamentoMapaSalas&theme=dracula" height="150" /></a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmanueleCs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmanueleCs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=EmanueleCs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=EmanueleCs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
@@ -109,6 +121,7 @@
 - 🥇 **Academic Merit Honor** — Fatec São Roque (top of class, 2nd semester 2025)
 - 🌎 Cultural & Language Immersion — New York, USA (ARInter/CPS)
 - 🎓 Technical Degree in Administration — IFSP
+- 📚 Bootcamp GFT — Fundamentos de Cloud com AWS (DIO)
 - 📚 Ongoing self-study track in Data Engineering (SQL avançado, ETL/ELT, modelagem de dados, cloud)
 
 ---
