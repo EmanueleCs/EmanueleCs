@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Emanuele 👋</h1>
-<h3 align="center">TI Developer | AI Agents & Cybersecurity | Automation & Data</h3>
+<h3 align="center">Aspiring Data Engineer | AI Agents & Automation | Cybersecurity-minded</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+solutions+with+AI+Agents+%2B+Cybersecurity;Automating+workflows+with+n8n%2C+Docker+%26+Supabase;Turning+data+into+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+data+pipelines+with+Python+%2B+SQL;Automating+ETL+workflows+with+n8n%2C+Docker+%26+Supabase;Turning+raw+data+into+reliable%2C+usable+information" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,27 +15,51 @@
 
 ### 🎯 About Me
 
+- 🧱 Transitioning into **Data Engineering**, building on a solid foundation in software development, databases and automation
 - 🎓 **Internet Systems** graduate — Fatec São Roque, awarded the **Academic Merit Honor** certificate for top academic performance
-- 🧭 Technical background in **Business Administration** (IFSP), bringing a strategic and management view to my technical work
-- 🌎 One-month cultural & language immersion in **New York, USA** (ARInter/CPS) — fluent in English for multicultural environments
-- 🤖 Building solutions that combine **AI Agents** and **Cybersecurity**, focused on education and data protection
-- ⚙️ Hands-on experience automating processes and integrating systems with **n8n, Supabase, Docker, Evolution API**
-- 🗄️ Experience supporting and monitoring **SQL databases** (MySQL, SQL Server)
-- 📊 Comfortable turning raw data into insight with **Excel, Power Query and Statistics**
-- 📚 Currently deepening my studies in **Data Engineering**
+- 🧭 Technical background in **Business Administration** (IFSP), bringing a strategic, data-driven view to engineering decisions
+- 🗄️ Practical experience supporting and monitoring **SQL databases** (MySQL, SQL Server) — query tuning, integrity checks, monitoring
+- ⚙️ Hands-on experience building **automated data pipelines and integrations** with n8n, Supabase, Docker and REST APIs
+- 📊 Strong data-wrangling foundation with **Excel, Power Query and Statistics**, now extending into Python-based data workflows
+- 🤖 Applying **AI Agents** to data and process automation, with an eye on data quality, security and governance
+- 🌎 One-month cultural & language immersion in **New York, USA** (ARInter/CPS) — fluent in English for multicultural, remote-first teams
+- 📚 Currently deepening my studies in **Data Engineering**: SQL at scale, ETL/ELT pipelines, data modeling and cloud data platforms
 
 ---
 
 ### 🛠️ Tech Stack
 
-**AI & Development**
+**Data Engineering & Pipelines**
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+
+**Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+**Data & Analytics**
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
+
+**Development**
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
 </p>
 
 **Web & Design**
@@ -46,24 +70,8 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-**Databases**
+**Project & Version Management**
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-**Automation & Infrastructure**
-<p align="left">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
-
-**Data & Project Management**
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -78,6 +86,8 @@
   <a href="https://github.com/EmanueleCs/tatupro_api" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanueleCs&repo=tatupro_api&theme=dracula" height="150" /></a>
   <a href="https://github.com/EmanueleCs/Projeto_GerenciamentoMapaSalas" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanueleCs&repo=Projeto_GerenciamentoMapaSalas&theme=dracula" height="150" /></a>
 </p>
+
+> 💡 *Next step: pin a project here that shows an end-to-end data pipeline (e.g. API/CSV → transformation script → database), even a small one — it's the single highest-leverage addition for a data engineering portfolio.*
 
 ---
 
@@ -99,7 +109,8 @@
 - 🥇 **Academic Merit Honor** — Fatec São Roque (top of class, 2nd semester 2025)
 - 🌎 Cultural & Language Immersion — New York, USA (ARInter/CPS)
 - 🎓 Technical Degree in Administration — IFSP
+- 📚 Ongoing self-study track in Data Engineering (SQL avançado, ETL/ELT, modelagem de dados, cloud)
 
 ---
 
-<p align="center"><i>Open to opportunities in AI-driven development, cybersecurity and automation. Let's connect! 🚀</i></p>
+<p align="center"><i>Open to opportunities in Data Engineering, data-driven automation and analytics. Let's connect! 🚀</i></p>
